@@ -47,10 +47,17 @@ A C++ spell checker program that compares input words against a dictionary and o
 
 ### Example Usage
 ```bash
-Enter a word: apple
+Please enter a word:
+were
 True
-Suggestions: application, apply
-Execution time: 123 microseconds
+
+Here are some suggestions:
+were
+we
+well
+went
+
+1.65634e+06 micro-seconds
 ```
 
 ## Notes
